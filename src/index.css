@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #1B5E20;
+  --color-primary-light: #4CAF50;
+  --color-primary-pale: #E8F5E9;
+
+  --color-gold: #F9A825;
+  --color-gold-light: #FFF9C4;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #F8F9F7;
+  direction: rtl;
+}
